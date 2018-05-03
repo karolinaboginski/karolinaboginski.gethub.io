@@ -1,0 +1,152 @@
+# karolinaboginski.gethub.iobody {
+  padding: 0;
+  margin: 0;
+  background: #F7F7F7;
+  /* Old browsers */
+  background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+}
+
+/** Header styles **/
+.header {
+  background-image: url(http://blog.organogold.com/wp-content/uploads/2017/09/3coffeeworld_no_text-1140x627.jpg);
+  height: 550px;
+  background-position: center center;
+}
+
+.roasting {
+  margin: 40px auto;
+  padding: 20px 30px 40px 30px;
+  background-color: #FFFFFFFFF;
+  overflow: auto;
+  width: 75%;
+  border-radius: 4px;
+  align-self: center;
+}
+
+.roasting p {
+  color: #938E89;
+  text-align: center;
+  line-height: 24px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.spectrum div {
+  font: inherit;
+  padding: 0 20px;
+  color: #FFFFFF;
+  overflow: auto;
+  opacity: 0.9;
+}
+
+.spectrum p {
+  color: #FFFFFF;
+  text-align: left;
+}
+
+/* Roast types */
+.green {
+  background-image: url(https://www.teitelbros.com/wp-content/uploads/2017/05/Green-Coffee-Beans-Loose2.jpg);
+  background-color: darkolivegreen;
+}
+
+.light {
+  background-image: url(https://www.fourthestatecoffee.com/wp-content/uploads/2017/08/green-coffee-bean.jpg);
+  background-color: darkkhaki;
+}
+
+.city {
+  background-image: url(https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_be79ee32-c63d-47c0-8fbc-0017d479a14a.jpg);
+  background-color: saddlebrown;
+}
+
+.vienna {
+  background-image: url(https://andersonscoffee.com/wp-content/uploads/2013/05/026-italian_dark_roast.jpg);
+  background-color: #41292C;
+}
+
+.italian {
+  background-image: url(http://static.wixstatic.com/media/550f95_8122c63d47bb4e0a9ac4fa20a0cc4853.png/v1/fill/w_784,h_784,al_c,usm_0.66_1.00_0.01/550f95_8122c63d47bb4e0a9ac4fa20a0cc4853.png);
+  background-color: black;
+}
+
+/* Typography */
+h1 {
+  color: goldenrod;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 85px;
+  line-height: 90px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 13%;
+}
+
+h2 {
+  color: chocolate;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #41292C;
+  font-family: 'Covered By Your Grace', serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: .2em;
+}
+
+h5 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  line-height: .2em;
+  font-weight: 300;
+}
+
+/* Page elements */
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 75%;
+}
+
+li {
+  border-bottom: 1px solid #E4BB97;
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+}
+
+p {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: 100;
+}
+
+a {
+  color: darkred;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  font-weight: 900;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
